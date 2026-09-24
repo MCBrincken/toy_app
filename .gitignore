@@ -1,0 +1,16 @@
+/log/*
+/tmp/*
+!/log/.keep
+!/tmp/.keep
+/storage/*
+!/storage/.keep
+.env
+.env.*
+node_modules/
+.DS_Store
+*.mp4
+*.mkv
+*.mov
+*.avi
+*.webm
+*.m4v
